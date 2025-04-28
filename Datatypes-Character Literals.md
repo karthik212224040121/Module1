@@ -16,3 +16,4 @@ print("a")
 ![image](https://github.com/user-attachments/assets/d76ea7b1-91be-4ec9-874d-dee429331c97)
 
 ## Result
+The expected output is achieved
