@@ -24,3 +24,4 @@ print(complex(a,b))
 ![image](https://github.com/user-attachments/assets/ecdeb7e5-ae7f-4d8d-ace3-0289b9d21fde)
 
 ## Result
+The expected output is achieved
